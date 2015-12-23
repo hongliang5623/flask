@@ -59,8 +59,8 @@ setup(
     version=version,
     url='http://github.com/mitsuhiko/flask/',
     license='BSD',
-    author='Armin Ronacher',
-    author_email='armin.ronacher@active-4.com',
+    author='hongliang5623',
+    author_email='zhanghliang5623@126.com',
     description='A microframework based on Werkzeug, Jinja2 '
                 'and good intentions',
     long_description=__doc__,
